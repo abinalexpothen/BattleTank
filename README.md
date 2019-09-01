@@ -21,4 +21,4 @@ What is NOT allowed? To move out of the designated war zone.
 
 - Battle theme music in the background.
 
-- An algorithm to calculate the bonus supplies quantity and location based on the current play state.
+- An algorithm to calculate the bonus supplies quantity and location based on the current player state.
